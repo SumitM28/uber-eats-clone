@@ -2,7 +2,7 @@
 
 
 ## About the project
-### UberEats is an on-demand food delivery like Swiggy and Zomato built using React Native and expo CLI. This project only contains the front-end portion. I have not implemented any backend API now. But In the future, I will create the backend for this project. So currently, In this project I'm using only static data.
+### UberEats is an on-demand food delivery like Swiggy and Zomato built using React Native and expo CLI. This project only contains the front-end portion. I did not implemented any backend API now. But In the future, I will create the backend for this project. So currently, In this project I'm using only static data.
 
 ## Features
 - Having a Clean UI.
